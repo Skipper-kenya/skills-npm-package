@@ -1,6 +1,6 @@
 {
   "name": "rastatech-skills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "what skills do i posses in programming world?",
   "main": "index.js",
   "scripts": {
